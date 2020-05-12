@@ -1,0 +1,44 @@
+body {
+  background-image:
+    url("https://2497.cdn.simplo7.net/static/2497/sku/SGRD_449_001_tricolinepatchworkcomprarlojaartesanatoonlinetecidosRamo01279010.jpg");
+  background-size: auto 100vh;
+  height: 100vh;
+  font-family: Verdana;
+}
+
+.site-title {
+  color: navy;
+  font-color: navy;
+  font-family: Verdana;
+  text-align: center;
+}
+
+.site-subtitle {
+  color: navy;
+  font-color: navy;
+  font-family: Verdana;
+  font-style: italic;
+  text-align: center;
+}
+
+.menu {
+   background-color: white;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li {
+  list-style: none;
+}
+
+a {
+  color: navy;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+} 
